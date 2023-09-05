@@ -84,6 +84,7 @@ button#white{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    
 }
 #mobile{
     display: none;
@@ -223,7 +224,7 @@ button#white{
     cursor: pointer;
     margin: 15px 0;
     transition: 0.2s ease;
-    position: relative;
+    /* position: relative;  */
 }
 .pro img{
     width: 100%;
@@ -264,7 +265,7 @@ button#white{
     font-weight: 500;
     color: rgb(14, 193, 238);
     border: 1px  rgb(226, 199, 199);
-    position:absolute;
+    /* position:relative; */
     bottom: 20px;
     right: 10px;
     
@@ -630,7 +631,7 @@ footer img{
     display: flex;
     align-items: center;
     width: 100%;
-    position: relative;
+    /* position: relative; */
 }
 #blog .blog-img{
     width: 50%;
